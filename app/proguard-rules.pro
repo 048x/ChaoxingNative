@@ -1,0 +1,3 @@
+-keep class com.chaoxing.nativeapp.** { *; }
+-dontwarn okhttp3.**
+-dontwarn org.jsoup.**

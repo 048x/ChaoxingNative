@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">超星助手</string>
+    <string name="login_title">超星助手</string>
+    <string name="login_subtitle">超星学习通视频助手</string>
+    <string name="label_username">账号</string>
+    <string name="label_password">密码</string>
+    <string name="hint_username">手机号 / 学号</string>
+    <string name="hint_password">登录密码</string>
+    <string name="hint_password_saved">********（已保存）</string>
+    <string name="btn_login">登录</string>
+    <string name="login_hint">账号密码仅保存在本机，不会上传</string>
+    <string name="clear_account">清除已保存账号</string>
+
+    <string name="courses_title">选择课程</string>
+    <string name="logout">退出登录</string>
+    <string name="select_all">全选</string>
+    <string name="speed">倍速</string>
+    <string name="jobs">并发章节数</string>
+    <string name="retry_notopen">遇到未开放章节时重试</string>
+    <string name="btn_start">开始学习</string>
+    <string name="loading_courses">正在读取课程…</string>
+    <string name="no_courses">未读取到课程</string>
+
+    <string name="run_title">学习进度</string>
+    <string name="back">返回</string>
+    <string name="btn_stop">停止</string>
+    <string name="state_running">运行中</string>
+    <string name="state_stopped">已结束</string>
+    <string name="state_done">已完成</string>
+    <string name="state_error">已结束（发生错误）</string>
+
+    <string name="notif_channel">学习任务</string>
+    <string name="notif_title">正在自动学习</string>
+    <string name="notif_text">点击返回查看进度</string>
+</resources>
